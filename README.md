@@ -1,4 +1,4 @@
-# Projetos Github, Power bi  (INFORMATICA) - GPI 
+# Projetos Github, Power bi, Excel,  (INFORMATICA) - GPI 
 
 Template para os projetos do curso de graduação em Logística, Projeto de informatica, Utilização do repositório digital "GitHub" "Power bi" . 
 

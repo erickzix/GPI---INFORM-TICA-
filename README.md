@@ -28,6 +28,12 @@ Descrição de demanda de projetos acadêmico em informatica primeiro semestre
 # Power Apps
 ![image](https://github.com/user-attachments/assets/8c2a988a-53a3-4979-b108-e690db5fd53e)
 
+# Prova de Informática
+![image](https://github.com/user-attachments/assets/496e8184-a391-4d8f-9cfe-1d50edaa7f7b)
+![image](https://github.com/user-attachments/assets/bf0d9f84-ae17-4343-b9a9-967017234684)
+![image](https://github.com/user-attachments/assets/a25c8df1-995f-40a8-a86c-0548ebab858c)
+![image](https://github.com/user-attachments/assets/edade3a4-65d2-4be3-80eb-86ddd156d856)
+
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
@@ -40,5 +46,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
  ### Tecnologias Específicas/Apoio
  CANVA, MENTIMETER, EXCEL, POWER BI
+
 
 
